@@ -1,0 +1,20 @@
+{
+  "agency_name": "TkachukLiliia",
+  "owner_label": "Owner:",
+  "owner_name": "Liliia Tkachuk",
+  "about_title": "About us",
+  "about_text": "Translation service",
+  "industries_title": "Fields",
+  "ind_business": "Business",
+  "ind_edu": "Education",
+  "ind_tech": "IT",
+  "rates_title": "Pricing",
+  "rate_standard": "Standard 0.05/word",
+  "rate_pro": "Expert 0.08/word",
+  "lang_pair_title": "Language Pair",
+  "pair_1": "Ukrainian - English",
+  "pair_2": "Ukrainian - German",
+  "pair_3": "Ukrainian - Polish",
+  "btn_order": "Place Order",
+  "btn_lang": "Change language"
+}
